@@ -1,7 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UESAKAYUUICHI&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UESAKAYUUICHI&layout=compact&theme=dark&hide_border=true)
-![Contribution Calendar](https://github-readme-contribution-calendar.vercel.app/graph?username=UESAKAYUUICHI&theme=dark&hide_border=true)
-![Recent Commits](https://github-readme-activity-graph.vercel.app/graph?username=UESAKAYUUICHI&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UESAKAYUUICHI&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UESAKAYUUICHI&layout=compact&theme=radical)
 ---
 
 ## 🌟 關於我
