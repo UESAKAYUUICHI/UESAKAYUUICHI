@@ -1,11 +1,50 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UESAKAYUUICHI&show_icons=true&theme=radical&count_private=true)](https://github.com/UESAKAYUUICHI)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UESAKAYUUICHI&layout=compact&theme=radical)](https://github.com/UESAKAYUUICHI)
+# 👋 你好，我是 UESAKAYUUICHI
+
+> 「全端全端，一人包辦。牛馬是我，我是牛馬。」  
+> —— 一位月薪 3K、開銷 1W 的追夢工程師 💸
+
 ---
 
 ## 🌟 關於我
-- 💻 **Full-stack 開發者** : 全端全端，一人包辦。牛馬是我，我是牛馬。月薪3K，開銷1W。
-- 🌍 **二次元**｜喜歡看動漫
-- ☕ **程式碼品質**｜大便級
 
-## 🌟 工作经历
-- 💻 **溫州拉普拉斯智能科技有限公司** : 運維 ＋ Java 後端開發
+- 💻 **全端開發者**：前端後端一把抓，部署除錯自己來。能跑就行，別問細節。
+- 🌍 **二次元愛好者**：下班後不是在補番，就是在等新番更新。
+- ☕ **程式碼品質**：穩定運行？算我輸。可讀性？下次一定。
+- 📚 **學習中**：努力讓自己的程式碼從「大便級」進化成「有味道但能吃」。
+
+---
+
+## 💼 工作經歷
+
+### 💻 溫州拉普拉斯智能科技有限公司  
+**職位**：運維工程師 ＋ Java 後端開發  
+**期間**：202X 年至今  
+**日常**：
+- 寫 Java 接 API，修 Bug 到天亮
+- 被伺服器當人質，半夜收告警簡訊
+- 順手幫前端改 CSS（雖然只會 `display: none`）
+
+---
+
+## 🛠 技術棧（自稱）
+
+| 類別       | 技術                     |
+|------------|--------------------------|
+| 後端       | Java, Spring Boot, MySQL |
+| 前端       | HTML/CSS（勉強）, Vue（看心情） |
+| 運維       | Linux, Docker, Nginx     |
+| 其他       | Git（主要用來 `reset --hard`）|
+
+> ⚠️ 註：以上技能熟練度 ≈「能跑就不管」
+
+---
+
+## 📬 聯絡我
+
+- 📧 郵箱：2359739818@qq.com
+- 🎮 Steam：正在打原神 or 艾爾登法環（誤）
+
+---
+
+> ✨ **人生目標**：早日讓薪資曲線追上花費曲線。  
+> 🐱 **座右銘**：今天也是努力不被優化的一天！
