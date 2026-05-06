@@ -1,0 +1,110 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.45" stop-color="#0B1C2E"/>
+      <stop offset="1" stop-color="#120A24"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F2138" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#09111E" stop-opacity="0.64"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38F9D7"/>
+      <stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB86B"/>
+      <stop offset="1" stop-color="#FF6B6B"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#74F7DF" stroke-opacity="0.08"/>
+    </pattern>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(965 98) rotate(122.84) scale(180 180)">
+      <stop stop-color="#38F9D7" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#38F9D7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="965" cy="98" r="180" fill="url(#orb)"/>
+
+  <path d="M0 268C126 218 271 222 391 256C552 302 686 319 866 259C1009 211 1114 184 1200 192V320H0V268Z" fill="#06111E" fill-opacity="0.78"/>
+  <path d="M0 286C129 235 272 239 391 270C555 315 689 333 867 275C1007 229 1112 201 1200 208" stroke="#38F9D7" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g opacity="0.72">
+    <path d="M905 53L1084 53" stroke="#38F9D7" stroke-opacity="0.18"/>
+    <path d="M905 86L1125 86" stroke="#38F9D7" stroke-opacity="0.18"/>
+    <path d="M905 119L1098 119" stroke="#38F9D7" stroke-opacity="0.18"/>
+    <path d="M905 152L1128 152" stroke="#38F9D7" stroke-opacity="0.18"/>
+    <path d="M905 185L1068 185" stroke="#38F9D7" stroke-opacity="0.18"/>
+  </g>
+
+  <rect x="54" y="42" width="640" height="204" rx="18" fill="url(#panel)" stroke="url(#accent)" stroke-opacity="0.58"/>
+  <rect x="80" y="70" width="148" height="28" rx="14" fill="#0D1D30" stroke="#38F9D7" stroke-opacity="0.38"/>
+  <circle cx="100" cy="84" r="5" fill="#38F9D7" filter="url(#glow)"/>
+  <text x="116" y="89" fill="#C6FFF7" font-size="14" font-family="Segoe UI, Arial, sans-serif">SYSTEM ONLINE</text>
+
+  <text x="80" y="132" fill="#F4FCFF" font-size="36" font-weight="700" font-family="Orbitron, Segoe UI, Arial, sans-serif">UESAKAYUUICHI</text>
+  <text x="80" y="166" fill="#7CF8E5" font-size="17" font-family="Segoe UI, Arial, sans-serif">FULL-STACK DEVELOPER / JAVA BACKEND / DEVOPS</text>
+  <text x="80" y="202" fill="#C8D7E6" font-size="16" font-family="Segoe UI, Arial, sans-serif">Build practical systems. Hunt bugs. Keep services alive.</text>
+
+  <g>
+    <rect x="80" y="219" width="112" height="24" rx="12" fill="#132942" stroke="#38F9D7" stroke-opacity="0.30"/>
+    <text x="96" y="235" fill="#D8FFF8" font-size="13" font-family="Segoe UI, Arial, sans-serif">JAVA CORE</text>
+
+    <rect x="202" y="219" width="130" height="24" rx="12" fill="#132942" stroke="#6C63FF" stroke-opacity="0.30"/>
+    <text x="218" y="235" fill="#E7E3FF" font-size="13" font-family="Segoe UI, Arial, sans-serif">SPRING BOOT</text>
+
+    <rect x="342" y="219" width="92" height="24" rx="12" fill="#132942" stroke="#41B883" stroke-opacity="0.30"/>
+    <text x="360" y="235" fill="#DEFFEF" font-size="13" font-family="Segoe UI, Arial, sans-serif">VUE UI</text>
+
+    <rect x="444" y="219" width="120" height="24" rx="12" fill="#132942" stroke="#FF8E72" stroke-opacity="0.30"/>
+    <text x="462" y="235" fill="#FFF0E8" font-size="13" font-family="Segoe UI, Arial, sans-serif">OPS MODE</text>
+  </g>
+
+  <g transform="translate(808 44)">
+    <rect width="320" height="198" rx="18" fill="#091525" fill-opacity="0.76" stroke="#38F9D7" stroke-opacity="0.22"/>
+    <path d="M32 28H288" stroke="#38F9D7" stroke-opacity="0.20"/>
+    <text x="32" y="19" fill="#8AFBEA" font-size="12" font-family="Segoe UI, Arial, sans-serif">CORE STATUS</text>
+
+    <circle cx="76" cy="84" r="34" fill="#0D2034" stroke="#38F9D7" stroke-opacity="0.35"/>
+    <circle cx="76" cy="84" r="24" stroke="#38F9D7" stroke-width="4" stroke-linecap="round" stroke-dasharray="118 40" transform="rotate(-90 76 84)" filter="url(#glow)"/>
+    <text x="60" y="90" fill="#F4FCFF" font-size="18" font-weight="700" font-family="Segoe UI, Arial, sans-serif">96%</text>
+    <text x="41" y="118" fill="#A6C7D7" font-size="11" font-family="Segoe UI, Arial, sans-serif">SYSTEM UPTIME</text>
+
+    <rect x="150" y="60" width="132" height="12" rx="6" fill="#13253A"/>
+    <rect x="150" y="60" width="112" height="12" rx="6" fill="url(#accent)"/>
+    <text x="150" y="49" fill="#E8FCFF" font-size="12" font-family="Segoe UI, Arial, sans-serif">Backend Focus</text>
+
+    <rect x="150" y="102" width="132" height="12" rx="6" fill="#13253A"/>
+    <rect x="150" y="102" width="88" height="12" rx="6" fill="#41B883"/>
+    <text x="150" y="91" fill="#E8FCFF" font-size="12" font-family="Segoe UI, Arial, sans-serif">Frontend Support</text>
+
+    <rect x="150" y="144" width="132" height="12" rx="6" fill="#13253A"/>
+    <rect x="150" y="144" width="96" height="12" rx="6" fill="url(#orange)"/>
+    <text x="150" y="133" fill="#E8FCFF" font-size="12" font-family="Segoe UI, Arial, sans-serif">Ops Response</text>
+  </g>
+
+  <g opacity="0.9">
+    <path d="M744 84L790 84" stroke="#38F9D7" stroke-width="2"/>
+    <path d="M744 94L776 94" stroke="#38F9D7" stroke-opacity="0.6"/>
+    <path d="M744 104L784 104" stroke="#38F9D7" stroke-opacity="0.35"/>
+  </g>
+
+  <path d="M1150 34L1168 52M1168 34L1150 52" stroke="#FF9B8A" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="1112" cy="276" r="26" stroke="#6C63FF" stroke-opacity="0.42"/>
+  <circle cx="1112" cy="276" r="16" stroke="#38F9D7" stroke-opacity="0.62"/>
+  <circle cx="1112" cy="276" r="3" fill="#38F9D7"/>
+
+  <text x="54" y="292" fill="#86A7BD" font-size="12" font-family="Segoe UI, Arial, sans-serif">PROFILE BANNER :: CYBER MODE</text>
+  <text x="996" y="292" fill="#86A7BD" font-size="12" font-family="Segoe UI, Arial, sans-serif">v1.0</text>
+</svg>
